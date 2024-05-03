@@ -9,8 +9,8 @@
 
 <channel>
 	<title>The Big Sleep</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://galgorium.github.io/TheBigSleep/feed/" rel="self" type="application/rss+xml" />
+	<link>https://galgorium.github.io/TheBigSleep/</link>
 	<description>Shadows in the City of Angels</description>
 	<lastBuildDate>Fri, 26 Apr 2024 16:33:21 +0000</lastBuildDate>
 	<language>es</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/04/cropped-favicon-32x32.jpg</url>
+	<url>https://galgorium.github.io/TheBigSleep/wp-content/uploads/2024/04/cropped-favicon-32x32.jpg</url>
 	<title>The Big Sleep</title>
-	<link>/</link>
+	<link>https://galgorium.github.io/TheBigSleep/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>This was the film in which Bogart became Marlowe for all time&#8230;</title>
-		<link>/this-was-the-film-in-which-bogart-became-marlowe-for-all-time/</link>
-					<comments>/this-was-the-film-in-which-bogart-became-marlowe-for-all-time/#respond</comments>
+		<link>https://galgorium.github.io/TheBigSleep/this-was-the-film-in-which-bogart-became-marlowe-for-all-time/</link>
+					<comments>https://galgorium.github.io/TheBigSleep/this-was-the-film-in-which-bogart-became-marlowe-for-all-time/#respond</comments>
 		
 		<dc:creator><![CDATA[firmin]]></dc:creator>
 		<pubDate>Wed, 10 Apr 2024 15:34:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=125</guid>
+		<guid isPermaLink="false">https://galgorium.github.io/TheBigSleep/?p=125</guid>
 
 					<description><![CDATA[Frequently compared with Huston&#8217;s «The Maltese Falcon» as one of the classics of the private eye genre, «The Big Sleep» is, in many ways, far removed from the former film Where on the contrary «The Maltese Falcon» has a basically simple plot about the hunt for a priceless statuette, «The Big Sleep» has probably the...]]></description>
 										<content:encoded><![CDATA[
@@ -62,20 +62,20 @@
 <p>When it first appeared, «The Big Sleep» was attacked in some quarters for violence and amorality but beneath its cynicism and toughness there breathed a heart and sentimentality which he1p to make it timeless</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/this-was-the-film-in-which-bogart-became-marlowe-for-all-time/feed/</wfw:commentRss>
+					<wfw:commentRss>https://galgorium.github.io/TheBigSleep/this-was-the-film-in-which-bogart-became-marlowe-for-all-time/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lots of murders never looked and sounded to good</title>
-		<link>/lots-of-murders-never-looked-and-sounded-to-good/</link>
-					<comments>/lots-of-murders-never-looked-and-sounded-to-good/#respond</comments>
+		<link>https://galgorium.github.io/TheBigSleep/lots-of-murders-never-looked-and-sounded-to-good/</link>
+					<comments>https://galgorium.github.io/TheBigSleep/lots-of-murders-never-looked-and-sounded-to-good/#respond</comments>
 		
 		<dc:creator><![CDATA[firmin]]></dc:creator>
 		<pubDate>Sat, 23 Mar 2024 16:58:25 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=132</guid>
+		<guid isPermaLink="false">https://galgorium.github.io/TheBigSleep/?p=132</guid>
 
 					<description><![CDATA[Even hardened film noir and Humphrey Bogart fans admit that this is one confusing movie. It makes sense, but it is edited down to such essentials, and it barrels along with the intensity of a bullet in a smoky canyon using overlapping dialog e and a shower of names, half of whom end up dead,...]]></description>
 										<content:encoded><![CDATA[
@@ -98,20 +98,20 @@
 <p>Howard Hawks pulls of a quirky masterpiece here. You get to the end and frankly don&#8217;t care too much, perhaps, about the outcome, about who survives and what their futures might hold. But that&#8217;s fine, too. It might just make you want to watch it again. Good filmmaking does that.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lots-of-murders-never-looked-and-sounded-to-good/feed/</wfw:commentRss>
+					<wfw:commentRss>https://galgorium.github.io/TheBigSleep/lots-of-murders-never-looked-and-sounded-to-good/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>My head&#8217;s still spinning</title>
-		<link>/my-heads-still-spinning/</link>
-					<comments>/my-heads-still-spinning/#respond</comments>
+		<link>https://galgorium.github.io/TheBigSleep/my-heads-still-spinning/</link>
+					<comments>https://galgorium.github.io/TheBigSleep/my-heads-still-spinning/#respond</comments>
 		
 		<dc:creator><![CDATA[firmin]]></dc:creator>
 		<pubDate>Sun, 03 Sep 2023 16:00:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=134</guid>
+		<guid isPermaLink="false">https://galgorium.github.io/TheBigSleep/?p=134</guid>
 
 					<description><![CDATA[THE BIG SLEEP is one of the more entertaining private eye movies I have seen. A dying old man has two beautiful, uncontrollable daughters: Vivien (Lauren Bacall), and Carmen (Martha Vickers). Carmen is being blackmailed, and her father hires P.I. Christopher Marlowe (the beloved Humphrey Bogart) to get the blackmailer off her back. But Marlowe...]]></description>
 										<content:encoded><![CDATA[
@@ -142,7 +142,7 @@
 <p>One final note: this movie is almost Bond-like in terms of the number of appallingly beautiful women Marlowe accidentally encounters, all of whom seem to have a burning desire for him. Even his taxi driver wants him. Dorothy Malone, whose character name we never learn, plays the sexiest book seller you will ever meet (and yes, she wears glasses; eat your heart out, Dorothy Parker!). Minus fifty points for credibility, plus a hundred points for entertainment. Regrettably, I cannot promise similar thrills for the female audience; it just kind of depends on how you like Men In Suits.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/my-heads-still-spinning/feed/</wfw:commentRss>
+					<wfw:commentRss>https://galgorium.github.io/TheBigSleep/my-heads-still-spinning/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

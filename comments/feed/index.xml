@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comentarios en The Big Sleep	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://galgorium.github.io/TheBigSleep/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://galgorium.github.io/TheBigSleep/</link>
 	<description>Shadows in the City of Angels</description>
 	<lastBuildDate>Fri, 26 Apr 2024 17:45:05 +0000</lastBuildDate>
 	<sy:updatePeriod>
